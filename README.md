@@ -7,7 +7,7 @@
 💻 &nbsp;Passionate about building high-performance applications with C++ and C#.\
 🌱 &nbsp;Currently expanding my expertise in cloud technologies and distributed systems.\
 ✍️ &nbsp;In my free time, I contribute to open-source projects and solve algorithmic challenges.\
-💬 &nbsp;Let's connect and discuss technology! Reach me at [sayyed.2727.sy@gmail.com](sayyed.2727.sy@gmail.com).\
+💬 &nbsp;Let's connect and discuss technology! Reach me at [sayyed.2727.sy@gmail.com](sayyed.2727.sy@gmail.com).
 
 ---
 
